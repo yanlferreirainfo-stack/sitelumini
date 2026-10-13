@@ -5,8 +5,8 @@
 // ---- Configuração -------------------------------------------------------
 // Cloudinary (upload da foto). Deixe vazio para desativar: a mensagem do
 // WhatsApp pede para o cliente enviar a foto na própria conversa.
-const CLOUD_NAME = '';
-const UPLOAD_PRESET = '';
+const CLOUD_NAME = 'zg0ey9fk';
+const UPLOAD_PRESET = 'Vipcar';
 
 const WHATSAPP_NUMBER = '5531991701636';
 const PHOTO_MAX_SIZE = 1600;     // maior lado da foto, em pixels
